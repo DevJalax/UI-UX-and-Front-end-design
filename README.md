@@ -22,6 +22,8 @@ User Interviews / Surveys / Group Discussions / Usability Testing / Persona / Cu
 
 Internet , Browsers 
 
+Concepts to learn : DOM , Routers/Navigation/Ajax , Data binding , State management , Events , Callbacks , sync/async , CLI , Styling , Animations 
+
 Different platforms : Mobile , Website , VR , desktop , mobile-web
 
 HTML , CSS+BEM(modern) , Javascript(JS)
