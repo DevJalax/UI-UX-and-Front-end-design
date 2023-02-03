@@ -20,7 +20,7 @@ User Interviews / Surveys / Group Discussions / Usability Testing / Persona / Cu
 
 ## Front-end development
 
-Internet , Browsers 
+Internet , Browsers , Assets management (images,stylesheets,animations)
 
 Concepts to learn : DOM , Routers/Navigation/Ajax , Data binding , State management , Events , Callbacks , sync/async , CLI , Styling , Animations 
 
